@@ -1,0 +1,3 @@
+# rust-encrypt-ransom
+
+PLEASE DO NOT RUN!! WILL ENCRYPT ALL FILES ON YOUR SYSTEM!!
